@@ -1,0 +1,11 @@
+import assert from 'node:assert/strict';
+import {validateExam} from '../src/exam.ts';
+const base={candidate:'Test',examiner:'Test',exam_date:'2026-10-03',scores:{},notes:{},general_note:'',status:'completed'};
+const scores=Object.fromEntries(Array.from({length:55},(_,i)=>[i+1,i<44?3:0]));
+assert.equal(validateExam({...base,scores}).passed,true);
+assert.equal(validateExam({...base,scores:{...scores,1:2}}).passed,false);
+assert.throws(()=>validateExam(base));
+assert.throws(()=>validateExam({...base,scores:{...scores,1:4}}));
+assert.throws(()=>validateExam({...base,scores:{...scores,1:null}}));
+assert.equal(validateExam({...base,status:'draft',scores:{1:0}}).total,0);
+console.log('Punkte, Bestehensgrenze und Eingabeprüfung erfolgreich.');

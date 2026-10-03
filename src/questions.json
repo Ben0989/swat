@@ -1,0 +1,332 @@
+[
+  {
+    "id": 1,
+    "category": "Grundlagen",
+    "question": "Wofür steht S.W.A.T.?",
+    "answer": "Special Weapons And Tactics"
+  },
+  {
+    "id": 2,
+    "category": "Grundlagen",
+    "question": "Was ist die Hauptaufgabe von S.W.A.T.?",
+    "answer": "Hochrisiko-Einsätze"
+  },
+  {
+    "id": 3,
+    "category": "Grundlagen",
+    "question": "Nenne drei typische Einsatzbereiche.",
+    "answer": "Geiselnahmen, Razzien, VIP-Eskorten"
+  },
+  {
+    "id": 4,
+    "category": "Grundlagen",
+    "question": "Was unterscheidet S.W.A.T. vom regulären Police Department?",
+    "answer": "Taktisches Vorgehen und hohe Funkdisziplin"
+  },
+  {
+    "id": 5,
+    "category": "Grundlagen",
+    "question": "Warum ist Funkdisziplin wichtig?",
+    "answer": "Für klare und störungsfreie Kommunikation"
+  },
+  {
+    "id": 6,
+    "category": "Grundlagen",
+    "question": "Was bedeutet taktisches Vorgehen?",
+    "answer": "Geplantes und koordiniertes Handeln"
+  },
+  {
+    "id": 7,
+    "category": "Grundlagen",
+    "question": "Welche Eigenschaften sollte ein S.W.A.T.-Mitglied besitzen?",
+    "answer": "Disziplin, Teamfähigkeit und Belastbarkeit"
+  },
+  {
+    "id": 8,
+    "category": "Grundlagen",
+    "question": "Warum arbeitet S.W.A.T. im Team?",
+    "answer": "Um Einsätze sicher und effektiv durchzuführen"
+  },
+  {
+    "id": 9,
+    "category": "Grundlagen",
+    "question": "Was hat im Einsatz höchste Priorität?",
+    "answer": "Schutz von Geiseln und Teammitgliedern"
+  },
+  {
+    "id": 10,
+    "category": "Grundlagen",
+    "question": "Warum ist Vorbereitung wichtig?",
+    "answer": "Um Risiken zu minimieren"
+  },
+  {
+    "id": 11,
+    "category": "Funkcodes",
+    "question": "Bedeutung von YELLOW?",
+    "answer": "Verhandlung"
+  },
+  {
+    "id": 12,
+    "category": "Funkcodes",
+    "question": "Bedeutung von GREEN?",
+    "answer": "Lage sicher"
+  },
+  {
+    "id": 13,
+    "category": "Funkcodes",
+    "question": "Bedeutung von RED?",
+    "answer": "Schussfreigabe / Zugriff"
+  },
+  {
+    "id": 14,
+    "category": "Funkcodes",
+    "question": "Bedeutung von EXFIL?",
+    "answer": "Rückzug oder Einsatzabbruch"
+  },
+  {
+    "id": 15,
+    "category": "Funkcodes",
+    "question": "Bedeutung von AAR?",
+    "answer": "After Action Review (Nachbesprechung)"
+  },
+  {
+    "id": 16,
+    "category": "Funkcodes",
+    "question": "Wann erfolgt ein AAR?",
+    "answer": "Nach dem Einsatz"
+  },
+  {
+    "id": 17,
+    "category": "Funkcodes",
+    "question": "Wann wird GREEN gefunkt?",
+    "answer": "Wenn die Lage vollständig gesichert ist"
+  },
+  {
+    "id": 18,
+    "category": "Funkcodes",
+    "question": "Wer entscheidet über RED?",
+    "answer": "Die Einsatzleitung"
+  },
+  {
+    "id": 19,
+    "category": "Funkcodes",
+    "question": "Warum werden Funkcodes verwendet?",
+    "answer": "Für schnelle und eindeutige Kommunikation"
+  },
+  {
+    "id": 20,
+    "category": "Funkcodes",
+    "question": "Was ist bei Funkmeldungen wichtig?",
+    "answer": "Kurz, präzise und verständlich sprechen"
+  },
+  {
+    "id": 21,
+    "category": "Geiselnahme-Ablauf",
+    "question": "Was ist der erste Schritt eines Einsatzes?",
+    "answer": "Das Briefing"
+  },
+  {
+    "id": 22,
+    "category": "Geiselnahme-Ablauf",
+    "question": "Welche Informationen werden im Briefing vermittelt?",
+    "answer": "Lage, Rollenverteilung und Codewort"
+  },
+  {
+    "id": 23,
+    "category": "Geiselnahme-Ablauf",
+    "question": "Warum wird ein Codewort festgelegt?",
+    "answer": "Für schnelle Kommunikation und Befehlsgebung"
+  },
+  {
+    "id": 24,
+    "category": "Geiselnahme-Ablauf",
+    "question": "Welche Aufgabe hat das Team während der Anfahrt?",
+    "answer": "Umgebung beobachten und sichern"
+  },
+  {
+    "id": 25,
+    "category": "Geiselnahme-Ablauf",
+    "question": "Was wird vor dem Zugriff identifiziert?",
+    "answer": "Täter und Geiseln"
+  },
+  {
+    "id": 26,
+    "category": "Geiselnahme-Ablauf",
+    "question": "Wann erfolgt die erste Funkmeldung?",
+    "answer": "Nach dem Lagecheck"
+  },
+  {
+    "id": 27,
+    "category": "Geiselnahme-Ablauf",
+    "question": "Was startet mit dem Code YELLOW?",
+    "answer": "Die Verhandlungsphase"
+  },
+  {
+    "id": 28,
+    "category": "Geiselnahme-Ablauf",
+    "question": "Wer führt die Verhandlungen?",
+    "answer": "Der Verhandlungsführer"
+  },
+  {
+    "id": 29,
+    "category": "Geiselnahme-Ablauf",
+    "question": "Warum versucht man Zeit zu gewinnen?",
+    "answer": "Um die Kontrolle über die Lage zu behalten"
+  },
+  {
+    "id": 30,
+    "category": "Geiselnahme-Ablauf",
+    "question": "Welche zwei Entscheidungen können nach einer Verhandlung folgen?",
+    "answer": "RED oder EXFIL"
+  },
+  {
+    "id": 31,
+    "category": "Geiselnahme-Ablauf",
+    "question": "Was passiert bei RED?",
+    "answer": "Der Zugriff beginnt"
+  },
+  {
+    "id": 32,
+    "category": "Geiselnahme-Ablauf",
+    "question": "Wann wird EXFIL durchgeführt?",
+    "answer": "Bei Einsatzabbruch oder taktischem Rückzug"
+  },
+  {
+    "id": 33,
+    "category": "Geiselnahme-Ablauf",
+    "question": "Was gehört zur Nachbereitung?",
+    "answer": "AAR und Fehleranalyse"
+  },
+  {
+    "id": 34,
+    "category": "Geiselnahme-Ablauf",
+    "question": "Warum wird eine Fehleranalyse durchgeführt?",
+    "answer": "Zur Verbesserung zukünftiger Einsätze"
+  },
+  {
+    "id": 35,
+    "category": "Geiselnahme-Ablauf",
+    "question": "Was ist das Ziel eines Geiselnahme-Einsatzes?",
+    "answer": "Rettung aller Geiseln und Festnahme der Täter"
+  },
+  {
+    "id": 36,
+    "category": "Erweiterte Fragen",
+    "question": "Wer hat während eines Einsatzes das letzte Wort?",
+    "answer": "Die Einsatzleitung"
+  },
+  {
+    "id": 37,
+    "category": "Erweiterte Fragen",
+    "question": "Was passiert, wenn ein Teammitglied Befehle ignoriert?",
+    "answer": "Gefährdung des gesamten Einsatzes"
+  },
+  {
+    "id": 38,
+    "category": "Erweiterte Fragen",
+    "question": "Warum ist Deckung wichtig?",
+    "answer": "Zum Schutz vor Bedrohungen"
+  },
+  {
+    "id": 39,
+    "category": "Erweiterte Fragen",
+    "question": "Was bedeutet Lageaufklärung?",
+    "answer": "Informationen über die Situation sammeln"
+  },
+  {
+    "id": 40,
+    "category": "Erweiterte Fragen",
+    "question": "Warum dürfen Informationen nicht ungeprüft weitergegeben werden?",
+    "answer": "Um Fehlentscheidungen zu vermeiden"
+  },
+  {
+    "id": 41,
+    "category": "Erweiterte Fragen",
+    "question": "Wann darf ein Zugriff erfolgen?",
+    "answer": "Nach Freigabe durch die Einsatzleitung"
+  },
+  {
+    "id": 42,
+    "category": "Erweiterte Fragen",
+    "question": "Was ist wichtiger: Geschwindigkeit oder Sicherheit?",
+    "answer": "Sicherheit"
+  },
+  {
+    "id": 43,
+    "category": "Erweiterte Fragen",
+    "question": "Welche Aufgabe hat ein Medic im Team?",
+    "answer": "Medizinische Versorgung"
+  },
+  {
+    "id": 44,
+    "category": "Erweiterte Fragen",
+    "question": "Welche Aufgabe hat ein Teamleader?",
+    "answer": "Führung seines Teams"
+  },
+  {
+    "id": 45,
+    "category": "Erweiterte Fragen",
+    "question": "Warum werden Einsätze dokumentiert?",
+    "answer": "Für Auswertung und Nachvollziehbarkeit"
+  },
+  {
+    "id": 46,
+    "category": "Multiple Choice",
+    "question": "Was ist S.W.A.T.? A) Streifenpolizei B) Spezialeinheit C) Feuerwehr D) Rettungsdienst",
+    "answer": "B"
+  },
+  {
+    "id": 47,
+    "category": "Multiple Choice",
+    "question": "Welcher Code bedeutet 'Lage gesichert'? A) RED B) GREEN C) EXFIL D) AAR",
+    "answer": "B"
+  },
+  {
+    "id": 48,
+    "category": "Multiple Choice",
+    "question": "Wer spricht mit den Tätern? A) Fahrer B) Medic C) Verhandlungsführer D) Pilot",
+    "answer": "C"
+  },
+  {
+    "id": 49,
+    "category": "Multiple Choice",
+    "question": "Was bedeutet EXFIL? A) Angriff B) Rückzug C) Sicherung D) Nachbesprechung",
+    "answer": "B"
+  },
+  {
+    "id": 50,
+    "category": "Multiple Choice",
+    "question": "Was folgt direkt nach einem Einsatz? A) Urlaub B) Neue Verhandlung C) AAR D) RED",
+    "answer": "C"
+  },
+  {
+    "id": 51,
+    "category": "Multiple Choice",
+    "question": "Wer gibt normalerweise den Zugriff frei? A) Geisel B) Fahrer C) Einsatzleitung D) Zuschauer",
+    "answer": "C"
+  },
+  {
+    "id": 52,
+    "category": "Multiple Choice",
+    "question": "Was bedeutet Funkdisziplin? A) Laut sprechen B) Funk ignorieren C) Geordnete Kommunikation D) Dauerhaft funken",
+    "answer": "C"
+  },
+  {
+    "id": 53,
+    "category": "Multiple Choice",
+    "question": "Was ist das Hauptziel bei einer Geiselnahme? A) Verfolgung B) Fahrzeugkontrolle C) Rettung der Geiseln D) Strafzettel",
+    "answer": "C"
+  },
+  {
+    "id": 54,
+    "category": "Multiple Choice",
+    "question": "Wann wird YELLOW genutzt? A) Nachbesprechung B) Verhandlung C) Schussfreigabe D) Rückzug",
+    "answer": "B"
+  },
+  {
+    "id": 55,
+    "category": "Multiple Choice",
+    "question": "Wofür steht AAR? A) Armed Assault Response B) After Action Review C) Advanced Assault Raid D) Area Access Report",
+    "answer": "B"
+  }
+]
